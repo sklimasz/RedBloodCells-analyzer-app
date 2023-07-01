@@ -1,8 +1,11 @@
 # Red blood cell analyzer app in Python
 
 Estimate number of red blood cells in given image using openCV. Quickly go through the process using GUI tkinter app. Easily change estimation parameters in the app.
-
-# Requirements
+<p align="center">
+<img src="https://user-images.githubusercontent.com/80223720/222797857-c2628806-e741-4dbd-b511-048e2a908417.png"> 
+<p align>  
+  
+## Requirements
 - openCV
 - numpy
 - tkinter
